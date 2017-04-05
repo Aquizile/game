@@ -1,0 +1,13 @@
+app/code/local/OTA/Contactus/Model/Groups.php
+app/code/local/OTA/Contactus/Model/Observer.php
+app/code/local/OTA/Contactus/Block/Contactus.php
+app/code/local/OTA/Contactus/controllers/IndexController.php
+app/code/local/OTA/MageFly/Helper/Data.php
+app/code/local/OTA/PomImport/Model/ImportPom.php
+app/code/local/OTA/PomImport/controllers/IndexController.php
+app/design/frontend/game/default/template/catalog/product/view/media.phtml
+app/design/frontend/game/default/template/catalog/product/list.phtml
+app/design/frontend/game/default/layout/contactus.xml
+app/design/frontend/game/default/template/contactus/contactus.phtml
+app/design/frontend/game/default/template/contactus/form.phtml
+skin/frontend/game/default/css/game.css

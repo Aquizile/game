@@ -1,0 +1,10 @@
+
+module myvarnish 1.0;
+
+require {
+	type varnishd_t;
+	class capability { fowner chown fsetid };
+}
+
+#============= varnishd_t ==============
+allow varnishd_t self:capability { fowner chown fsetid };

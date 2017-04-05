@@ -1,0 +1,298 @@
+2015-11-23T05:05:50+00:00 ERR (3): Notice: Undefined offset: 1  in /Game_Data/Gamev2/game_114/app/code/local/Mirasvit/MstCore/Helper/Code.php on line 235
+2015-11-23T11:01:08+00:00 ERR (3): Notice: Undefined offset: 1  in /Game_Data/Gamev2/game_114/app/code/local/Mirasvit/MstCore/Helper/Code.php on line 235
+2015-11-23T11:02:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:02:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:02:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:02:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:02:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:02:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:02:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:02:56+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:04:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:04:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:04:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:04:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:04:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:04:19+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:04:19+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:04:20+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:05:21+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:05:21+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:05:22+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:05:22+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:05:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:05:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:05:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:05:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: block line 6 and reference  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string():         </reference>  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string():                     ^  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 8: parser error : Opening and ending tag mismatch: reference line 5 and default  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string():     </default>  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string():               ^  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : Opening and ending tag mismatch: default line 4 and layout  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string(): </layout>  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 11: parser error : Premature end of data in tag layout line 3  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string():   in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:06:58+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T11:23:52+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:23:52+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:26:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:26:27+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:26:27+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:26:27+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:26:28+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:26:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:26:30+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T11:26:31+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Game_Data/Gamev2/game_114/lib/Zend/Controller/Response/Abstract.php:768
+[2] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/App.php:354
+[5] /Game_Data/Gamev2/game_114/app/Mage.php:684
+[6] /Game_Data/Gamev2/game_114/index.php:87
+</pre>
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: block line 6 and reference  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string():         </reference>  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string():                     ^  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 8: parser error : Opening and ending tag mismatch: reference line 5 and default  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string():     </default>  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string():               ^  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : Opening and ending tag mismatch: default line 4 and layout  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string(): </layout>  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 11: parser error : Premature end of data in tag layout line 3  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string():   in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
+2015-11-23T13:02:52+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /Game_Data/Gamev2/game_114/app/code/core/Mage/Core/Model/Layout/Update.php on line 450
